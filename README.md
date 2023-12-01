@@ -7,7 +7,7 @@
 
 - 文档同步：[Elog](https://github.com/LetTTGACO/elog)
 
-## 文档站点搭建指南
+## 站点搭建指南
 ### Fork模板仓库
 [点击 Fork](https://github.com/elog-x/flowus-halo/fork) 该模板仓库到个人 Github 账号仓库下并 clone 到本地。
 ### 安装依赖
@@ -68,4 +68,3 @@ https://serverless-api-elog.vercel.app/api/github?user=xxx&repo=xxx&event_type=d
 ## 参考示例
 示例 Github 仓库：[https://github.com/LetTTGACO/flowus-halo](https://github.com/LetTTGACO/flowus-halo)
 示例 FlowUs 数据表格：[elog-halo](https://flowus.cn/1874/share/e4e1e6dc-403b-45e6-b4cd-b3d8e6ae79b1)
-示例 Halo 站点：[https://halo.1874.cool](https://halo.1874.cool)
