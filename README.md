@@ -67,4 +67,9 @@ https://serverless-api-elog.vercel.app/api/github?user=xxx&repo=xxx&event_type=d
 #### 自动触发
 ## 参考示例
 示例 Github 仓库：[https://github.com/LetTTGACO/flowus-halo](https://github.com/LetTTGACO/flowus-halo)  
-示例 FlowUs 数据表格：[elog-halo](https://flowus.cn/1874/share/e4e1e6dc-403b-45e6-b4cd-b3d8e6ae79b1)
+示例 FlowUs 数据表格：[elog-halo](https://flowus.cn/1874/share/e4e1e6dc-403b-45e6-b4cd-b3d8e6ae79b1)  
+
+你也可以使用 Notion/语雀/飞书作为写作平台：  
+Notion 模版数据库: [notion-halo](https://www.notion.so/1874/b061632fc7d644eaa12f3e0f095938fb?v=7491fbb2415c43cf9752a7e4ad9f41a5&pvs=4)
+
+
