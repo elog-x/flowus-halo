@@ -1,6 +1,6 @@
 # FlowUs + Elog + Halo + GitHub Actions 博客解决方案
 # 快速开始
-## 文档站点工具汇总
+## 站点工具汇总
 - 写作平台：FlowUs
 
 - 文档平台：[Halo](https://www.halo.run/)
